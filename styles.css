@@ -75,10 +75,8 @@ h1, h2 {
 
 .flavor, .dessert {
     text-align: left;
-    word-wrap: break-word;
+    
     width: 90%;
-    padding-left: 50px;
-    padding-right: 50px;
     margin-left: auto;
     margin-right: auto;
   marg
