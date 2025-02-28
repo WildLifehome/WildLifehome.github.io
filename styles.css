@@ -66,12 +66,13 @@ h1, h2 {
   font-family: Impact, serif;
 }
 
-/*.item {
-  display: inline-block;
-  margin-top: 5px;
-  margin-bottom: 5px;
-  font-size: 18px;
-}*/
+.item {
+  text-align:left;
+  margin-left: auto;
+  margin-right: auto;
+  width: 90%;
+  
+}
 
 .flavor, .dessert {
     text-align: left;
