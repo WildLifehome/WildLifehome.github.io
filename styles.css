@@ -79,6 +79,9 @@ h1, h2 {
     width: 90%;
     padding-left: 50px;
     padding-right: 50px;
+    margin-left: auto;
+    margin-right: auto;
+  marg
 }
 
 .price {
