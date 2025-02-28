@@ -102,10 +102,9 @@ footer {
 a {
     color: black;
     font-weight: bold;
-    width: 90%;
     margin-left: auto;
     margin-right: auto;
-    font-size: 20px; 
+     
 }
 
 a:visited {
@@ -119,17 +118,6 @@ a:hover {
 a:active {
   color: brown;
 }
-
-/*make white outline around letters*/
-
-/*p {
-    color: black;
-    text-shadow:
-    -1px -1px 0 white,
-    1px -1px 0 white,
-    -1px 1px 0 white,
-    1px 1px 0 white;  
-}*/
 
 img {
   padding: 20px;
