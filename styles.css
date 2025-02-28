@@ -76,13 +76,16 @@ h1, h2 {
   
 }
 
-.desc {
+.desc, desc1 {
     text-align: left;
     
     width: 90%;
     margin-left: auto;
     margin-right: auto;
   marg
+}
+.desc1 {
+  font-style: oblique;
 }
 
 /*.price {
