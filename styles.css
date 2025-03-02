@@ -114,7 +114,9 @@ a {
      
 }
 
-
+footer {
+  margin: auto;
+}
 a:visited {
   color: black;
 }
